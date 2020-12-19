@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    /* Please, do not rename it */
+    class Problem {
+
+        public static void main(String[] args) {
+            String operator = args[0];
+            // write your code here
+        }
+    }
+  learner_created: false
+- name: src/Problem.class
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/3335#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3335#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 17 Dec 2020 05:30:42 UTC
+record: -1
